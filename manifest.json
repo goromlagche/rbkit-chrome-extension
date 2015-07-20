@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "rbkit dev tool",
+    "version": "1.0",
+    "description": "Helps in profiling",
+
+    "icons": {
+        "128": "img/rbkit.png"
+    },
+
+    "devtools_page": "html/devtools.html"
+}
